@@ -1,0 +1,52 @@
+esc for back to normal mode
+:q to quit
+:wq to quit and write
+:w <filename> to save unnamed file
+:c to back to normal mode on the vim
+:set number to display line number
+:set nonumber to hide line number
+:set syntax on to turn the syntax highlight on
+:set syntax off to turn the syntax highlight off
+i to move the cursor to the fist char of the line
+a to move the cursor to the last char of the line
+o to move the cursor down the line and make a new line
+h to move the cursor to the left
+j to move the cursor to the downline
+k to move the cursor to the upline
+l to move the cursor to the right
+w to move the cursor one word forward
+b to move the cursor one wordk backward
+e to move the cursor to the last character within a word
+( to move the cursor to the previous sentence
+) to move the cursor to the next sentence
+{ to move the cursor to the previous parahraph
+} to move the cursor to the next paragraph
+d is the operator to remove something, w is the completion dw is to remove one word forward
+dd to remove one line
+baris ini akan dihapus, cobalah berulang menggunakan dw
+baris ini akan dihapus, cobalah menggunakan dd
+yy to copy one line
+yw to copy a word
+y} to copy a paragraph
+p to paste the copied
+u to undo the last move
+ctr-r to redo the last move
+/pattern to search a pattern word within vim, for example /remove
+
+please
+try 
+to 
+remove
+this 
+paragraph
+using
+
+move to the visual mode, select {, then remove using d, undo to keep the paragraph
+gg to move the cursor one page upward
+G to move the cursor one page downward
+
+
+
+
+
+
