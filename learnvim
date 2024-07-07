@@ -47,7 +47,7 @@ G to move the cursor one page downward
 
 to select a paragraph, store a cursor in the beginning of the paragraph, then type vip
 to add comment type gc after block some code
-
+to replace all words in entire the code, :%s/oldword/newword
 
 
 
