@@ -45,6 +45,8 @@ move to the visual mode, select {, then remove using d, undo to keep the paragra
 gg to move the cursor one page upward
 G to move the cursor one page downward
 
+to select a paragraph, store a cursor in the beginning of the paragraph, then type vip
+
 
 
 
